@@ -8,6 +8,7 @@ List of dvc plugins
 | [Google Drive](https://github.com/iterative/dvc-gdrive)   |![dvc-gdrive](https://github.com/iterative/dvc-gdrive/workflows/Tests/badge.svg)   |
 | [Google Storage](https://github.com/iterative/dvc-gs)     |![dvc-gs](https://github.com/iterative/dvc-gs/workflows/Tests/badge.svg)           |
 | [HDFS](https://github.com/iterative/dvc-hdfs)             |![dvc-hdfs](https://github.com/iterative/dvc-hdfs/workflows/Tests/badge.svg)       |
+| [HTTP](https://github.com/iterative/dvc-http)             |![dvc-http](https://github.com/iterative/dvc-http/workflows/Tests/badge.svg)       |
 | [WebHDFS](https://github.com/iterative/dvc-webhdfs)       |![dvc-webhdfs](https://github.com/iterative/dvc-webhdfs/workflows/Tests/badge.svg) |
 | [Microsoft Azure](https://github.com/iterative/dvc-azure) |![dvc-azure](https://github.com/iterative/dvc-azure/workflows/Tests/badge.svg)     |
 | [SSH/SFTP](https://github.com/iterative/dvc-ssh)          |![dvc-ssh](https://github.com/iterative/dvc-ssh/workflows/Tests/badge.svg)         |
